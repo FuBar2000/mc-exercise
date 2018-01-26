@@ -8,3 +8,6 @@ if (butter.footprints) {
 }
 
 Here is some more text for this document. I hope it ruins this company forever.
+
+How do you get the elephant out of the refrigerator?
+Take the elephant out and put a giraffe in instead.
