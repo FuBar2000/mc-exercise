@@ -6,3 +6,7 @@ How can you tell if an elephant has been in your fridge?
 if (butter.footprints) {
   elephantInFridge === true;
 }
+
+
+How do you get the elephant out of the refrigerator?
+Take the elephant out and put a giraffe in instead.
